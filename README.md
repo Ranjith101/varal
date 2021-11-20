@@ -1,2 +1,1 @@
-# varal
-Varal Consultancy
+# varalUAE
